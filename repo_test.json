@@ -1,0 +1,18 @@
+{
+  "format": 1,
+  "type": "tavern-repository",
+  "name": "Wren's Workshop",
+  "packages": [
+    {
+      "id": "Dolmenwood",
+      "kind": "system",
+      "name": "Loot Tables",
+      "version": "1.2.0",
+      "description": "Treasure, by the hoard.",
+      "tags": ["system"],
+      "systems": [""],
+      "manifest": "https://github.com/https://github.com/DragonsDrinkFree/tm-test-repo/releases/latest/download/tavern.json"
+    }
+  ],
+  "includes": []
+}
